@@ -6,7 +6,7 @@ const Login = React.createClass({
     return(
     	<div>
 		<h3>Login</h3>
-    	Welcome to login
+    	Welcome to login Jing
     	</div>
   )}
 
